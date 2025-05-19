@@ -1,0 +1,35 @@
+Data Analytics:
+    Data analysis is the process of identifying, cleaning, transforming, and modeling data to discover meaningful and useful information.
+    Help to determine the impact of the business, including evaluating customer sentiment, performing market and product research, and identifying trends or other data insights.
+
+To Analyse Data, core analytic components are divided into following categories.
+        1. Descriptive 
+        2. Diagnostic
+        3. Predictive
+        4. Prescriptive
+        5. Cognitive
+Descriptive Analytics:
+        Descriptive analytics help answer questions about what has happened based on historical data. 
+        Techniques used to summarize large semantic models to describe outcomes to stakeholders.
+   Example: Generating reports to provide a view of an organization's sales and financial data.
+
+Diagnostic Analytics:
+       Diagnostic analytics help answer questions about why events happened. 
+       Techniques used supplement basic descriptive analytics, and they use the findings from descriptive analytics to discover the cause of these events.
+
+Predictive Analytics:
+      Predictive analytics help answer questions about what will be happen in the future event. 
+      Techniques include a variety of statistical and machine learning techniques such as neural networks, decision trees, and regression.
+
+Prescriptive Analytics:
+      Prescriptive analytics help answer questions about which action taken to achieve a goal or target by using predictive analysis.
+      Techniques rely on machine learning as one of the strategies to find patterns in large semantic models.
+
+Cognitive Analytics:
+      Cognitive analytics combines intelligent technologies like AI and machine learning to analyze data and make decisions in a way that mimics human thought processes.
+      Techniques like pattern recognition and natural language processing to extract insights and make predictions.
+
+
+
+
+
