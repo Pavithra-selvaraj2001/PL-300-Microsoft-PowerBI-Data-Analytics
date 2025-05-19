@@ -1,0 +1,23 @@
+Microsoft PowerBI is the Visualization tool which offers data preparation, visualization, distribution and manage through the development tools and an online platform.
+
+BUILDING BLOCKS OF POWERBI
+
+    The 2 main building blocks of PowerBI are:
+          1. Semantic models -- consists of all connected data, transformations,relationships and calculations.
+          2. Visualizations -- visual representation data and then build a report.
+
+PowerBI creates visually stunning, interactive reports to serve as the analytics and decision making in the entire organizations. 
+It has three primary components. They are:
+
+     1. PowerBI Desktop (Desktop application)
+           Creating a semantic models and report with visualizations.
+
+     2. PowerBI Services (online Platform)
+           Creating dashboards from published reports and distributing content with apps.
+
+     3. PowerBI Mobile (Cross-Platform mobile app)
+            On-the-go access to the PowerBI service content, designed for mobile.
+
+
+
+
