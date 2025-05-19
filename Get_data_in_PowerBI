@@ -1,0 +1,12 @@
+How to get data in PowerBI?
+   Getting the data from the different data sources and importing it into PowerBI by Using POWER QUERY.
+
+Where we gets the data?
+  Getting the data from 
+         1. Relational Database such as Microsoft SQL Server.
+         2. A file such as Excel.
+         3. Applications.
+         4. Azure Analysis Services.
+
+1. Get data from a file:
+        
